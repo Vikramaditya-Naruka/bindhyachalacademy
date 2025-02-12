@@ -52,10 +52,10 @@ function ContactUs() {
                 Contact Number
               </div>
               <p className="font-cinzel text-[18px] mb-[1px] text-center">
-                +91 9415228666
+                +91 94311 77848
               </p>
               <p className="font-cinzel text-[18px] mb-[1px] text-center">
-                +91 7380922230
+                +91 94311 77848
               </p>
             </div>
           </div>
@@ -64,7 +64,7 @@ function ContactUs() {
           <div
             className="flex flex-col items-center justify-center  shadow-lg rounded-[10px] hover:shadow-xl hover:bg-[#fbffe7] transition-shadow cursor-pointer bg-white pt-10 pb-12"
             onClick={() =>
-              (window.location.href = "mailto:optimalclassesvns@gmail.com")
+              (window.location.href = "mailto:XYZ@gmail.com")
             } 
           >
             <div className="m-4 flex ">
@@ -75,7 +75,7 @@ function ContactUs() {
                 Email Us
               </div>
               <p className="font-cinzel text-[18px] mb-[1px] text-center">
-              optimalclassesvns@gmail.com
+              XYZ@gmail.com
               </p>
             </div>
           </div>
@@ -98,21 +98,21 @@ function ContactUs() {
                 Location
               </div>
               <p className="font-cinzel text-[18px] mb-[1px] text-center px-4 md:px-6">
-              Optimal Classes, Near Bengal sweet house, BLW-BHU road Varanasi, Uttar Pradesh.
+              Bindhyachal Academy, H-25, Harmu Housing Colony, Harmu, Ranchi, Jharkhand.
               </p>
             </div>
           </div>
         </div>
         <div className="w-auto h-[300px] md:h-[400px] lg:h-[500px] mx-2 md:mx-8 lg:mx-10 my-6 md:my-12 lg:my-16 border-2 md:border-[25px] border-[#131313]">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4016.7792363329595!2d82.96976914526385!3d25.284053422992653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398e3391a2196597%3A0x2af9196892ac4703!2sOPTIMAL%20CLASSES!5e0!3m2!1sen!2sin!4v1737197500430!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3662.8534388820426!2d85.30032217532393!3d23.35732377894062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f4e15610e9a3a5%3A0x6f9004d13898d264!2sBindhyachal%20Academy!5e0!3m2!1sen!2sin!4v1739120497933!5m2!1sen!2sin"
             width="100%"
             height="100%"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Optimal Classes Location"
+            title="Bindhyachal Academy Location"
           ></iframe>
         </div>
         <div><ContactForm/></div>
@@ -146,7 +146,7 @@ function ContactUs() {
         </style>
         <div className="absolute inset-0 bg-black opacity-[0.5]"></div>
         {/* <h1 className="absolute text-white text-3xl font-bold">
-        Why Optimal Classes
+        Why Bindhyachal Academy
       </h1> */}
       </div>
     </div>

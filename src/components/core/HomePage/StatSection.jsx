@@ -59,7 +59,7 @@ const StatsSection = () => {
             </svg>
           </span>
           <span className="relative z-10 text-black mb-4 block transition-opacity duration-200 text-justify p-6">
-            I would like to express my sincere gratitude to optimal classes...
+            I would like to express my sincere gratitude to Bindhyachal Academy...
             Shobhit sir has been a great mentor. He is always helped me in my
             understanding of concepts, and he not only supports my academics but
             also motivated me to stay on course. His hard work and geniue

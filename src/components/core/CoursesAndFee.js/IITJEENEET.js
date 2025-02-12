@@ -9,7 +9,7 @@ function IITJEENEET() {
       Page information available soon...
       <br />
       <br />
-      Thanks, Optimal Classes, Varanasi, Uttar Pradesh.
+      Thanks, Bindhyachal Academy,  Ranchi, Jharkhand.
     </div>
   );
 }

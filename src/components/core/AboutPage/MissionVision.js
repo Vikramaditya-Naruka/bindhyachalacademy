@@ -71,7 +71,7 @@ function MissionVision() {
           <div className="my-[20px] md:-mr-[14px] order-first">
             <div className="">
               <img
-                src="/images/directorImage.jpeg"
+                src="/images/directorImage.png"
                 className="w-[93%] h-[93%] rounded-[10px] my-auto shadow-md shadow-gray-300 mt-[1.5vw] mx-auto"
                 alt="pic not load"
               />
@@ -112,7 +112,7 @@ function MissionVision() {
         </style>
         <div className="absolute inset-0 bg-black opacity-[0.5]"></div>
         {/* <h1 className="absolute text-white text-3xl font-bold">
-      Why Optimal Classes
+      Why Bindhyachal Academy
     </h1> */}
       </div>
     </div>

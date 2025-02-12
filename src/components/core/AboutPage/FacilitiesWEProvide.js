@@ -45,17 +45,17 @@ const Facilities = () => {
       {/* Content */}
       <div className="facilities bg-gradient-to-b from-[#C6EA8D] to-[#E2D1C3] rounded-lg shadow-lg  mx-auto p-3 pb-[80px]">
         <h2 className="text-[#da2424] text-[28px] md:text-[38px] lg:text-[42px] font-rubik-vinyl font-bold text-center pt-4 md:pt-8  tracking-wider">
-        Student’s Journey Inside Optimal Classes
+        Student’s Journey Inside Bindhyachal Academy
         </h2>
         {/* Image content */}
         <div className="grid grid-cols-1 md:grid-cols-3 grid-rows-1 md:gap-6 lg:gap-10 px-6 md:px-10 mt-8 md:mt-12">
           <img
-            src="/images/journeyInside1.jpg"
+            src="/images/journeyInside1.png"
             className="rounded-[10px] object-cover h-[300px] w-full"
             alt="img not load"
           />
           <img
-            src="/images/journeyInside2.jpg"
+            src="/images/journeyInside_2.jpg"
             className="rounded-[10px] object-cover h-[300px] w-full hidden md:block"
             alt="img not load"
           />
@@ -70,10 +70,10 @@ const Facilities = () => {
           <li className="flex items-start space-x-4 border-b pb-4 border-[#ff3434]">
             <div>
               <div className="flex">
-                <div className=" pt-1">
+                {/* <div className=" pt-1">
                   <FaChalkboardTeacher className="text-[#da2424] text-[25px]" />
-                </div>
-                <div className="ml-1 md:ml-2 lg:ml-3">
+                </div> */}
+                {/* <div className="ml-1 md:ml-2 lg:ml-3">
                   <h3 className="pl-1 md:pl-0 text-[22px] font-semibold text-[#da2424]">
                     Digital Classrooms
                   </h3>
@@ -82,7 +82,7 @@ const Facilities = () => {
                     to provide a dynamic and interactive learning experience
                     through multimedia tools.
                   </p>
-                </div>
+                </div> */}
               </div>
             </div>
           </li>
@@ -249,7 +249,7 @@ const Facilities = () => {
         </style>
         <div className="absolute inset-0 bg-black opacity-[0.5]"></div>
         {/* <h1 className="absolute text-white text-3xl font-bold">
-          Why Optimal Classes
+          Why Bindhyachal Academy
         </h1> */}
       </div>
     </div>

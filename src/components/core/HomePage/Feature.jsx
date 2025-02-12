@@ -14,7 +14,7 @@ const Features = () => {
     >
       <div className="bg-yellow-5 pt-[40px] pb-10">
         <div className="text-clip bg-clip-text font-bold text-[#ff0b0b] text-[24px] md:text-2xl lg:text-4xl text-center md:mb-4 px-3">
-          Transforming Education in Varanasi
+          Transforming Education in Ranchi
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 md:gap-6 px-4 md:px-10 ">
           <div className="flex flex-col">
@@ -23,7 +23,7 @@ const Features = () => {
                 expanded ? "" : "overflow-hidden max-h-[4000px]"
               } transition-all duration-300`}
             >
-              Looking for the best coaching institute in Varanasi to boost
+              Looking for the best coaching institute in Ranchi to boost
               academic excellence for students from Class 7 to 12? Your search
               ends here! Our institute is committed to nurturing young minds
               through exceptional academic support and a strong focus on
@@ -56,7 +56,7 @@ const Features = () => {
           </div>
           <div className=" my-[20px] md:-mr-[14px]">
             <img
-              src="/images/slide005.jpg"
+              src="/images/slide_005.jpg"
               className="w-full h-full float-right rounded-[10px] shadow-md shadow-gray-300"
               alt="pic not load"
             />

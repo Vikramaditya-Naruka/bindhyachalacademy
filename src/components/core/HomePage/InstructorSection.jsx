@@ -29,11 +29,11 @@ const AboutSection = () => {
         {/* Right part - Text content */}
         <div className="w-full lg:w-1/2 flex flex-col gap-10 py-8">
           <h1 className="text-4xl text-white font-semibold text-center">
-            What do you think about us? <HighlightText text={"Optimal classes"} />
+            What do you think about us? <HighlightText text={"Bindhyachal Academys"} />
           </h1>
 
           <p className="text-[16px] text-justify text-richblack-200 -mt-6">
-            At Optimal Classes, we believe that every student has the potential
+            At Bindhyachal Academys, we believe that every student has the potential
             to excel when provided with the right guidance and resources. Our
             mission is to create a supportive and dynamic learning environment
             that not only nurtures academic growth but also instills confidence
@@ -44,7 +44,7 @@ const AboutSection = () => {
             IIT-JEE and NEET preparation. With a team of experienced faculty,
             state-of-the-art digital tools, and a student-centric approach, we
             aim to empower learners to achieve their goals and unlock their true
-            potential. At Optimal Classes, your success is our passion.
+            potential. At Bindhyachal Academy, your success is our passion.
           </p>
 
           {/* <div className="flex -mt-4 mx-auto  pb-10">

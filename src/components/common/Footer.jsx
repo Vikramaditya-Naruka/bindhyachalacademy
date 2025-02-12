@@ -45,17 +45,17 @@ const ContactUs = [
   {
     icon: <FaFacebook />,
     Label: "Facebook",
-    link: "https://www.facebook.com/share/19kS34o7fS/?mibextid=wwXIfr",
+    link: "https://www.facebook.com/bindhyachalacademy/",
   },
   {
     icon: <FaInstagram />,
     Label: "Instagram",
-    link: "https://www.instagram.com/optimal_classes?igsh=M3Iwc280YW1oaHVh&utm_source=qr",
+    // link: "https://www.instagram.com/optimal_classes?igsh=M3Iwc280YW1oaHVh&utm_source=qr",
   },
   {
     icon: <FaYoutube />,
     Label: "Youtube",
-    link: "http://www.youtube.com/@Optimal_Classes",
+    link: "https://www.youtube.com/@Bindhyachalacademy",
   },
   {
     icon: <FaEnvelope />,
@@ -104,7 +104,7 @@ const Footer = () => {
     // bg-[#ff0088] hover:bg-[#ff48a9]
     <div className="  text-white bg-gradient-to-b from-[#FF512F] to-[#DD2476]">
       {/* <div className="pt-[8vw] md:pt-[6vw] lg:pt-[4vw] text-center mx-auto text-[24px] md:text-[22px] lg:text-[24px] text-[#89ff29] font-rubik-vinyl">
- OPTIMAL CLASSES
+ Bindhyachal Academy
       </div> */}
       <div className="flex lg:flex-row gap-8 items-center justify-evenly w-11/12 max-w-maxContent text-white leading-6 mx-auto relative py-2">
         <div className="border-b w-[100%] flex flex-col lg:flex-row pb-5 border-richblack-700 mt-10">
@@ -224,7 +224,7 @@ const Footer = () => {
                           }}
                           className="my-auto ml-1"
                         >
-                          optimalclassesvns@gmail.com
+                          XYZ@gmail.com
                         </div>
                       </div>
                     </div>
@@ -261,7 +261,7 @@ const Footer = () => {
                     Designed By Sunsoft Digital Solution
                   </div>
                   <p className="text-sm text-center md:text-left text-[15px]">
-                    © {new Date().getFullYear()} Optimal Classes. All Rights
+                    © {new Date().getFullYear()} Bindhyachal Academy. All Rights
                     Reserved.
                   </p>
                 </div>
@@ -270,9 +270,7 @@ const Footer = () => {
           </div>
 
           <div className="text-center order-first md:order-last px-[20px] p-[4px] leading-6 text-[15px]">
-            Optimal Classes, Near Bengal sweet house, BLW-BHU road Varanasi,
-            Uttar Pradesh. <br /> +91 9415228666, +91 7380922230
-          </div>
+          Bindhyachal Academy, H-25 (2nd Floor, Harmu Chowk, beside Harmu Ground, Harmu Housing Colony, Harmu, Ranchi, Jharkhand 834002 <br /> +91 9431177848          </div>
         </div>
       </div>
     </div>

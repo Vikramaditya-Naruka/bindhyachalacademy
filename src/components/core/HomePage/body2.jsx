@@ -20,7 +20,7 @@ const PerfectPlatform = () => {
     <section className="py-16">
       <h2 className="text-[14px] md:text-xl lg:text-2xl font-bold py-3 md:py-2 text-center mb-4 text-white bg-[#ff0b0b]">
         <span className="bg-gradient-to-b py-4 from-[#fff5f3] to-[#ffffff] text-transparent bg-clip-text font-bold">
-        TOP RATED COACHING CLASSES IN VARANASI
+        TOP RATED COACHING CLASSES IN RANCHI
         </span>
       </h2>
 
@@ -47,14 +47,12 @@ const PerfectPlatform = () => {
           </div>
           {/* Description */}
           <span className="relative z-10 text-black mb-4 block transition-opacity duration-200 text-justify">
-            Preparing for exams, building a strong foundation, or excelling
-            academically? Our expert guidance and proven strategies help Class 7
-            to 10 students master subjects like Science, Math, and English with
-            ease. Engage in personalized mentoring, interactive learning
-            methods, and confidence-building techniques tailored to every
-            student’s needs. We ensure you’re well-prepared for school exams and
-            future academic challenges, setting a solid foundation for higher
-            studies and lifelong success.
+            Preparing for exams, strengthen your foundation, or achieve academic success?
+             Our expert guidance and effective strategies empower students from Class 7 to 
+             10 to master subjects like Science, Math, and English with confidence. Through 
+             personalized mentoring, interactive learning techniques, and confidence-building 
+             approaches, we cater to each student’s unique needs. We help you prepare thoroughly
+              for school exams while laying a strong groundwork for higher education and long-term success.
           </span>
           {/* Button */}
           <Link
@@ -82,14 +80,11 @@ const PerfectPlatform = () => {
           </div>
           {/* Description */}
           <span className="relative z-10 text-black mb-4 block transition-opacity duration-200 text-justify">
-            Transitioning into Class 11th and 12th? These crucial years are the
-            foundation of your future success. Master advanced concepts in
-            Physics, Chemistry, Mathematics, or Biology with our expert-led,
-            personalized guidance. Our program equips you with essential
-            problem-solving skills, effective study strategies, and the
-            confidence to excel in board exams, competitive exams like JEE and
-            NEET, and beyond. Unlock your potential and pave the way for a
-            bright future today!
+          Moving into Class 11 and 12? These vital years shape your future success. Gain a deep understanding 
+          of advanced concepts in Physics, Chemistry, Mathematics, or Biology with our expert-led, personalized
+           guidance. Our program enhances problem-solving skills, introduces effective study techniques, and builds
+            the confidence needed to excel in board exams and competitive exams like JEE and NEET. Unlock your true
+             potential and set the foundation for a bright future today!
           </span>
           {/* Button */}
           <Link

@@ -41,11 +41,11 @@ function Why() {
             <div
               className={`text-black text-[18px] font-cinzel  my-[40px] text-justify flex md:gap-5 flex-col transition-all duration-300`}
             >
-              Established in 2022, Optimal Classes has rapidly become a trusted
+              Established in 2017, Bindhyachal Academy has rapidly become a trusted
               name in academic coaching, empowering students from Classes 7 to
               12. Our core mission is to provide a strong academic foundation
               that enables students to excel in school exams while preparing
-              them for a bright future. At Optimal Classes, we prioritize
+              them for a bright future. At Bindhyachal Academy, we prioritize
               academics above all else, offering personalized attention and
               innovative teaching methods. With a team of experienced and
               passionate educators, we cater to each student’s unique learning
@@ -53,8 +53,7 @@ function Why() {
               to help students succeed in their school and board exams but to
               instill a genuine love for learning, fostering critical thinking
               and problem-solving skills that will last a lifetime. To enhance
-              the learning experience, we’ve incorporated smart digital
-              classrooms equipped with LCD screens. These classrooms combine
+              the learning experience. These classrooms combine
               traditional teaching with advanced technology, allowing students
               to engage with visually rich content, interactive lessons, and
               real-time demonstrations. This modern approach makes learning more
@@ -69,12 +68,12 @@ function Why() {
               competition, we maintain a balanced approach. We ensure that
               academic performance is never compromised while providing students
               with the strategies and knowledge necessary for tackling these
-              rigorous exams. At Optimal Classes, we believe that every student
+              rigorous exams. At Bindhyachal Academy, we believe that every student
               deserves to receive individualized attention and guidance. Our
               supportive learning environment helps students stay motivated,
               build confidence, and work toward their academic and career goals.
               Whether you're aiming to excel in your school exams or preparing
-              for national-level competitive exams, Optimal Classes offers a
+              for national-level competitive exams, Bindhyachal Academy offers a
               comprehensive coaching experience designed for success. Choose us
               for quality education, proven mentorship, and a pathway that
               aligns with your aspirations.
@@ -85,7 +84,7 @@ function Why() {
           </div>
           <div className=" my-[20px] md:-mr-[14px] order-first">
             <img
-              src="/images/whyChooseUs _.jpeg"
+              src="/images/whychooseus.jpg"
               className="w-[93%] h-[93%] rounded-[10px] my-auto shadow-md shadow-gray-300 mt-[1.5vw] mx-auto"
               alt="pic not load"
             />
@@ -121,7 +120,7 @@ function Why() {
         </style>
         <div className="absolute inset-0 bg-black opacity-[0.5]"></div>
         {/* <h1 className="absolute text-white text-3xl font-bold">
-          Why Optimal Classes
+          Why Bindhyachal Academy
         </h1> */}
       </div>
     </div>

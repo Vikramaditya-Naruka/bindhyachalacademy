@@ -1,59 +1,59 @@
 export const gallery = [
     {
         title: "Classroom",
-        src: "/userimage/classroom.jpeg"
+        src: "/userimage/classroom.jpg"
     },
     {
         title: "Conducting classes",
-        src: "/userimage/conductingclasses.jpeg"
+        src: "/userimage/conductingclasses.png"
     },
     {
         title: "Weekly assessment",
-        src: "/userimage/weeklyassessment.jpeg"
+        src: "/userimage/weeklyassessment.png"
     },
     {
         title: "Our director",
-        src: "/userimage/ourdirector.jpeg"
+        src: "/userimage/ourdirector.png"
     },
-    {
-        title: "Maths class",
-        src: "/userimage/mathclasses.jpeg"
-    },
-    {
-        title: "Optimal Classes",
-        src: "/userimage/optimalclasses.jpeg"
-    },
+    // {
+    //     title: "Maths class",
+    //     src: "/userimage/mathclasses.jpeg"
+    // },
+    // {
+    //     title: "Bindhyachal Academy",
+    //     src: "/userimage/optimalclasses.jpeg"
+    // },
     {
         title: "Classroom",
-        src: "/userimage/classroom2.jpeg"
+        src: "/userimage/classroom2.jpg"
     },
     {
         title: "Get together",
-        src: "/userimage/gettogether.jpeg"
+        src: "/userimage/gettogether.jpg"
     },
-    {
-        title: "Celebration",
-        src: "/userimage/celebration.jpeg"
-    },
-    {
-        title: "Our students",
-        src: "/userimage/ourstudents.jpeg"
-    },
+    // {
+    //     title: "Celebration",
+    //     src: "/userimage/celebration.jpeg"
+    // },
+    // {
+    //     title: "Our students",
+    //     src: "/userimage/ourstudents.jpeg"
+    // },
     {
         title: "Prize distribution",
-        src: "/userimage/prizedistribution.jpeg"
+        src: "/userimage/prizedistribution.png"
     },
-    {
-        title: "Office",
-        src: "/userimage/office.jpeg"
-    },
-    {
-        title: "Seminar",
-        src: "/userimage/seminar.jpeg"
-    },
+    // {
+    //     title: "Office",
+    //     src: "/userimage/office.jpeg"
+    // },
+    // {
+    //     title: "Seminar",
+    //     src: "/userimage/seminar.jpeg"
+    // },
  
-    {
-        title: "PTM",
-        src: "/userimage/ptm.jpeg"
-    },
+    // {
+    //     title: "PTM",
+    //     src: "/userimage/ptm.jpeg"
+    // },
 ]

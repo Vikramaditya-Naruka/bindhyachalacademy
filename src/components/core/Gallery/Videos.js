@@ -66,7 +66,7 @@ function VideoManager() {
                 <div className="video-container">
                   {/* Link to the YouTube channel */}
                   <a
-                    href="https://www.youtube.com/watch?v=q0HdpSd6WAU"
+                    href="https://www.youtube.com/embed/aTnFjmUwcAY?si=OAUvbDSKeQE5YLnx"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="video-link"

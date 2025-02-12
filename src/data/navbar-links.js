@@ -10,7 +10,7 @@ export const NavbarLinks = [
     link: null,
     subLinks: [
       {
-        name: "Why Optimal Classess",
+        name: "Why Bindhyachal Academys",
         link: "/why-oc",
       },
       {
@@ -25,10 +25,10 @@ export const NavbarLinks = [
         name: "Student Journey Inside OC",
         link: "/student-journey",
       },
-      {
-        name: "Our Academic Team",
-        link: "/acedmic-team",
-      },
+      // {
+      //   name: "Our Academic Team",
+      //   link: "/acedmic-team",
+      // },
     ],
     class: "",
   },

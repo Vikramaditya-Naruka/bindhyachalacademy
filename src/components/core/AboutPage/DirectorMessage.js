@@ -45,7 +45,7 @@ function DirectorMessage() {
                 <br />
                 <p>
                   <span class="font-semibold">Shobhit Kumar Srivastava</span>, the esteemed director of
-                  <span class="font-semibold"> Optimal Classes</span>, is a visionary leader dedicated to transforming the field of education.
+                  <span class="font-semibold"> Bindhyachal Academy</span>, is a visionary leader dedicated to transforming the field of education.
                   He earned his <span class="font-semibold">B. Tech. degree in 2007</span> from <span class="font-semibold">H. B. T. I. Kanpur</span>,
                   one of <span class="font-semibold">India's most prestigious engineering colleges</span>, showcasing his academic brilliance early on.
                 </p>
@@ -67,7 +67,7 @@ function DirectorMessage() {
                   contributing meaningfully to society.
                 </p>
                 <p class="mt-4">
-                  Under his leadership, <span class="font-semibold"> Optimal Classes</span> continues to achieve
+                  Under his leadership, <span class="font-semibold"> Bindhyachal Academy</span> continues to achieve
                   <span class="font-semibold"> remarkable results</span>, setting new benchmarks in <span class="font-semibold">academic excellence</span>.
                 </p>
               </div>
@@ -93,7 +93,7 @@ function DirectorMessage() {
           <div className="my-[20px] md:-mr-[14px] order-first">
             <div className="">
               <img
-                src="/images/directorImage.jpeg"
+                src="/images/directorImage.png"
                 className="w-[93%] h-[93%] rounded-[10px] my-auto shadow-md shadow-gray-300 mt-[1.5vw] mx-auto"
                 alt="pic not load"
               />
@@ -134,7 +134,7 @@ function DirectorMessage() {
         </style>
         <div className="absolute inset-0 bg-black opacity-[0.5]"></div>
         {/* <h1 className="absolute text-white text-3xl font-bold">
-        Why Optimal Classes
+        Why Bindhyachal Academy
       </h1> */}
       </div>
     </div>

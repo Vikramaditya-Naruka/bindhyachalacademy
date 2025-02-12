@@ -17,7 +17,7 @@ function Navbar() {
 
   return (
     <>
-      <nav className="flex items-center h-20 px-3 m-0 md:px-4 bg-[#000000] z-40 ">
+      <nav className="flex items-center h-20 px-3 m-0 md:px-4 bg-[#00d0ff] z-40 ">
         <div className="flex items-center justify-between w-full md:mx-4 lg:mx-8 2xl:w-[80em] 2xl:mx-auto">
           <div className="flex items-center justify-center">
             <div className="md:hidden">
